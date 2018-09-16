@@ -1,3 +1,3 @@
 # k-means
 
-This is for k-means clustering algorithm.
+This is an implementaion of k-means clustering algorithm.
